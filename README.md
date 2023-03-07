@@ -1,5 +1,3 @@
-# Decorate Your Portfolio
+My new Portfolio
 
-This is an activity for FSD Lesson 1.8.2.
-
-Please refer to the Activity Guide in Canvas for directions.
+had trouble but i gave it all i had
